@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dc3b11e-c4b4-4d9e-827e-2177c05a5cca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RGZ_UltraSnake_final$SnakeGame.coverage" NAME="SnakeGame Coverage Results" MODIFIED="1557225922933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RGZ-UltraSnake" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/SnakeGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Snake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/record.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/save.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/interface.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/Pos.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/record.txt" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/SnakeGame.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/save" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/Point.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/Snake.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/Gui.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/Map.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/Snake/Game.py" />
+        <option value="$PROJECT_DIR$/RGZ-UltraSnake/record.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="815" />
+    <option name="y" value="9" />
+    <option name="width" value="506" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RGZ-UltraSnake_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGZ-UltraSnake_final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RGZ-UltraSnake_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGZ-UltraSnake_final" type="462c0819:PsiDirectoryNode" />
+              <item name="RGZ-UltraSnake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RGZ-UltraSnake_final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGZ-UltraSnake_final" type="462c0819:PsiDirectoryNode" />
+              <item name="RGZ-UltraSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="Snake" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projects/NSTU/Python2Laba" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SnakeGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RGZ-UltraSnake_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RGZ-UltraSnake" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RGZ-UltraSnake/SnakeGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SnakeGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc3b11e-c4b4-4d9e-827e-2177c05a5cca" name="Default Changelist" comment="" />
+      <created>1555263325672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555263325672</updated>
+      <workItem from="1555263328896" duration="1223000" />
+      <workItem from="1555331568293" duration="14793000" />
+      <workItem from="1555401078847" duration="2326000" />
+      <workItem from="1555434811381" duration="3666000" />
+      <workItem from="1555439345929" duration="2051000" />
+      <workItem from="1555607982363" duration="2813000" />
+      <workItem from="1555690259316" duration="742000" />
+      <workItem from="1555756297136" duration="9145000" />
+      <workItem from="1555768606266" duration="4240000" />
+      <workItem from="1555860293383" duration="2406000" />
+      <workItem from="1555902754709" duration="4806000" />
+      <workItem from="1555958415943" duration="495000" />
+      <workItem from="1556002841133" duration="2062000" />
+      <workItem from="1556046361494" duration="791000" />
+      <workItem from="1556090735506" duration="837000" />
+      <workItem from="1556096747779" duration="662000" />
+      <workItem from="1556104083110" duration="5830000" />
+      <workItem from="1556358800802" duration="17378000" />
+      <workItem from="1556454174713" duration="265000" />
+      <workItem from="1556460350377" duration="1168000" />
+      <workItem from="1556533193133" duration="2037000" />
+      <workItem from="1556632115050" duration="6752000" />
+      <workItem from="1556639603990" duration="2091000" />
+      <workItem from="1556701869501" duration="6636000" />
+      <workItem from="1556805237171" duration="6008000" />
+      <workItem from="1556908153725" duration="615000" />
+      <workItem from="1556950645422" duration="6828000" />
+      <workItem from="1557224728180" duration="1494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110160000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/interface.py" />
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Direc.py" />
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Pos.py" />
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/record.txt" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-915376579/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5155" column="8" selection-start-line="5155" selection-start-column="8" selection-end-line="5155" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/save" />
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Point.py" />
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/save.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/record.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/SnakeGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGZ-UltraSnake/Snake/Snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
