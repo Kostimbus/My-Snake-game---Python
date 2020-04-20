@@ -1,6 +1,7 @@
 from Snake.Snake import Snake
 from Snake.Map import Map, PointType, Direc, Pos
 import sys
+import os.path
 
 
 class Conf:
@@ -61,7 +62,7 @@ class Game:
 
     def game_reset(self):
         if self.new_record:
-            with open("D:\RGZ-UltraSnake_final\RGZ-UltraSnake\\record.txt", "w") as f:
+            with open(os.path.dirname(__file__) + "/../record.txt", "w") as f:                                  # path in CONST and WRITE and READ in FUNCTION !!!!!!!!!!   Remove debug in cmd for DIRECTION !!!! Better serialize !!!!
                 f.write(str(self.score))
             self.new_record = False
         self.score = -1
@@ -75,7 +76,7 @@ class Game:
             self.nonpause = True
 
     def read_best_score(self):
-        with open("D:\RGZ-UltraSnake_final\RGZ-UltraSnake\\record.txt", "r") as f:
+        with open(os.path.dirname(__file__) + "/../record.txt", "r") as f:
             curr_best_score = int(f.read())
             print(curr_best_score)
             if self.score > curr_best_score:
@@ -90,7 +91,7 @@ class Game:
 
     def __exit__(self):
         if self.new_record:
-            with open("D:\RGZ-UltraSnake_final\RGZ-UltraSnake\\record.txt", "w") as f:
+            with open(os.path.dirname(__file__) + "/../record.txt", "w") as f:
                 f.write(str(self.score))
         sys.exit()
 
